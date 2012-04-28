@@ -2,11 +2,10 @@ package chapter1;
 
 
 import java.util.Scanner;
-
 public class Gugudan {
 
 	/**
-	 * @param gugudan main
+	 * @param gugudan main AA
 	 */
 	public static void main(String[] args) {
 		System.out.println("input gugudan");
@@ -18,7 +17,7 @@ public class Gugudan {
 	}
 
 	/**
-	 * @param gugudan method
+	 * @param gugudan method 
 	 */
 	public static void printDan(int i) {
 		for (int j = 1; j <= 9; j++) {
